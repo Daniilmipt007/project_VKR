@@ -1,17 +1,31 @@
 \begin{thebibliography}{1}
 
+\bibitem{beniczky2020electroencephalography}
+S{\'a}ndor Beniczky and Donald~L Schomer.
+\newblock Electroencephalography: basic biophysical and technological aspects
+  important for clinical applications.
+\newblock {\em Epileptic Disorders}, 22(6):697--715, 2020.
+
+\bibitem{craik2019deep}
+Alexander Craik, Yongtian He, and Jose~L Contreras-Vidal.
+\newblock Deep learning for electroencephalogram (eeg) classification tasks: a
+  review.
+\newblock {\em Journal of neural engineering}, 16(3):031001, 2019.
+
 \bibitem{misc_eeg_eye_state_264}
 Oliver Roesler.
 \newblock {EEG Eye State}.
 \newblock UCI Machine Learning Repository, 2013.
 \newblock {DOI}: https://doi.org/10.24432/C57G7J.
 
-\bibitem{Zhumakova}
-ТА Жумакова, ШО Рыспекова, ДД Жунистаев, НМ
-  Чурукова, АМ Исаева, and ИО Алимкул.
-\newblock Тайны человеческого мозга.
-\newblock {\em Международный журнал прикладных и
-  фундаментальных исследований}, (6-2):230--232,
-  2017.
+\bibitem{siuly2016eeg}
+Siuly Siuly, Yan Li, and Yanchun Zhang.
+\newblock Eeg signal analysis and classification.
+\newblock {\em IEEE Trans Neural Syst Rehabilit Eng}, 11:141--144, 2016.
+
+\bibitem{teplan2002fundamentals}
+Michal Teplan et~al.
+\newblock Fundamentals of eeg measurement.
+\newblock {\em Measurement science review}, 2(2):1--11, 2002.
 
 \end{thebibliography}

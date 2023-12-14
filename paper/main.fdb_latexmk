@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1702576474 "main.aux" "main.bbl" "main" 1702576623 0
-  "./references.bib" 1702548266 1366 91d493bb87b0624f17c3e87b753998d8 ""
+["bibtex main"] 1702592037 "main.aux" "main.bbl" "main" 1702592435 0
+  "./references.bib" 1702592004 2901 d21b4d0b965c7d8981afa86a9f7e8ebb ""
   "C:/Users/Р§С‘СЂРЅС‹Р№ РіРѕСЃРїРѕРґРёРЅ/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 0 -1 0 ""
-  "main.aux" 1702576621 2531 cd0c1f1b57d7f2b7e4eac28d27744f11 "pdflatex"
+  "main.aux" 1702592433 2982 2c276b1d6271cb4ecae8567fc524cca2 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1702576607 "c:/Users/Чёрный господин/Documents/GitHub/project_VKR/paper/main.tex" "main.pdf" "main" 1702576623 0
+["pdflatex"] 1702592419 "c:/Users/Чёрный господин/Documents/GitHub/project_VKR/paper/main.tex" "main.pdf" "main" 1702592435 0
   "64_channel_sharbrough.pdf" 1702574393 32731 c9e0dddb83e6741931a6ace4c6f83275 ""
   "C:/Users/Чёрный господин/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702548474 281000 eb8b192011139e75c44b89c19602391a ""
   "C:/Users/Чёрный господин/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/labi1200.tfm" 1676978555 3592 9415307df98650ffeddaa22e262436dc ""
@@ -56,10 +56,8 @@
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
-  "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb" 1247596666 32166 b0c356b15f19587482a9217ce1d8fa67 ""
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1247596667 30251 6afa5cb1d0204815a708a080681d4674 ""
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247596667 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
-  "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb" 1247596666 37166 8ab3487cbe3ab49ebce74c29ea2418db ""
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1247596666 35469 dcf3a5f2fc1862f5952e3ee5eb1d98c4 ""
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb" 1247596666 36912 b448ef9ad9d7228ec3c6e71005136d55 ""
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
@@ -67,7 +65,6 @@
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb" 1247596667 24420 52dbb8e8aa0069a1b987309557f8d303 ""
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1247596667 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
-  "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb" 1247596670 35479 2cca68718f15872e7cce1a8f6033b99b ""
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1247596673 34694 870c211f62cb72718a00e353f14f254d ""
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbi1200.pfb" 1215618300 205875 6ce66c36f4b1188cc9c3ab693ec2e6eb ""
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx1200.pfb" 1215618300 140176 d0f50dba675c56d445f84a32c1f93a79 ""
@@ -259,11 +256,11 @@
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "Dataset.pdf" 1702576334 835559 efc6cfb2757ad25cad8d9a8f9411e12f ""
   "arxiv.sty" 1702488296 7651 b0631c51720987987d111d479058240d ""
-  "c:/Users/Чёрный господин/Documents/GitHub/project_VKR/paper/main.tex" 1702576600 7168 82d7d36f610c9b5d50fbc89e99f04983 ""
-  "main.aux" 1702576621 2531 cd0c1f1b57d7f2b7e4eac28d27744f11 "pdflatex"
-  "main.bbl" 1702576474 629 c417ca61176d97998189f7d1b51bcabf "bibtex main"
-  "main.out" 1702576621 941 51cdf90a2fdb5fb3b193a4fa86fef6a3 "pdflatex"
-  "main.tex" 1702576600 7168 82d7d36f610c9b5d50fbc89e99f04983 ""
+  "c:/Users/Чёрный господин/Documents/GitHub/project_VKR/paper/main.tex" 1702592418 10470 0ba0190fcbe5c7fa0123e68fac83db2c ""
+  "main.aux" 1702592433 2982 2c276b1d6271cb4ecae8567fc524cca2 "pdflatex"
+  "main.bbl" 1702592038 1107 7dc32d088605e91b5cb680c6c56e3021 "bibtex main"
+  "main.out" 1702592433 1446 5846de3998c2462daded4af21c9a91f9 "pdflatex"
+  "main.tex" 1702592418 10470 0ba0190fcbe5c7fa0123e68fac83db2c ""
   "preamble.tex" 1702488296 3968 58ddf4f8cb5f4746e88e61b1b179583e ""
   (generated)
   "main.aux"

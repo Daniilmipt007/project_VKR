@@ -1367,10 +1367,11 @@ INPUT C:\Users\Чёрный господин\AppData\Local\MiKTeX\fonts\tfm\lh\l
 INPUT C:\Users\Чёрный господин\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx1440.tfm
 INPUT C:\Users\Чёрный господин\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\laxc1440.tfm
 INPUT C:\Users\Чёрный господин\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labi1200.tfm
+INPUT C:\Users\Чёрный господин\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss12.tfm
 INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
-INPUT C:\Users\Чёрный господин\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\Чёрный господин\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\lacc1000.tfm
 INPUT .\64_channel_sharbrough.pdf
 INPUT .\64_channel_sharbrough.pdf
 INPUT 64_channel_sharbrough.pdf
@@ -1385,7 +1386,6 @@ INPUT Dataset.pdf
 INPUT .\Dataset.pdf
 INPUT .\Dataset.pdf
 INPUT .\Dataset.pdf
-INPUT C:\Users\Чёрный господин\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\lacc1000.tfm
 INPUT .\main.bbl
 INPUT main.bbl
 INPUT .\main.bbl
@@ -1395,20 +1395,14 @@ INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
 INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\cm-super\cm-super-t2a.enc
-INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx8.pfb
-INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx8.pfb
 INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
-INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
 INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmib10.pfb
 INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmib10.pfb
-INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cmextra\cmmib8.pfb
-INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cmextra\cmmib8.pfb
 INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb

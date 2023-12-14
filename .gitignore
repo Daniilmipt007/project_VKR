@@ -120,3 +120,6 @@ logs/
 */mnist
 *.csv
 !.dvc
+
+/code/eeg_motor_movementimagery_dataset/*
+/code/dataset_eeg_eye_state/*

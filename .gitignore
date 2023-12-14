@@ -121,5 +121,5 @@ logs/
 *.csv
 !.dvc
 
-/code/eeg_motor_movementimagery_dataset/*
+/code/eeg-motor-movementimagery-dataset/*
 /code/dataset_eeg_eye_state/*

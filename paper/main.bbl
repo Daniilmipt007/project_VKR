@@ -1,11 +1,10 @@
 \begin{thebibliography}{1}
 
-\bibitem{Berezutskaya2022}
-Julia Berezutskaya, Mariska~J. Vansteensel, Erik~J. Aarnoutse, Zachary~V.
-  Freudenburg, Giovanni Piantoni, Mariana~P. Branco, and Nick~F. Ramsey.
-\newblock Open multimodal {iEEG}-{fMRI} dataset from naturalistic stimulation
-  with a short audiovisual film.
-\newblock {\em Scientific Data}, 9(1), March 2022.
+\bibitem{misc_eeg_eye_state_264}
+Oliver Roesler.
+\newblock {EEG Eye State}.
+\newblock UCI Machine Learning Repository, 2013.
+\newblock {DOI}: https://doi.org/10.24432/C57G7J.
 
 \bibitem{Zhumakova}
 ТА Жумакова, ШО Рыспекова, ДД Жунистаев, НМ

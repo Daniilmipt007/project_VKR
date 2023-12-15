@@ -1,10 +1,22 @@
 \begin{thebibliography}{1}
 
+\bibitem{barachant2010riemannian}
+Alexandre Barachant, St{\'e}phane Bonnet, Marco Congedo, and Christian Jutten.
+\newblock Riemannian geometry applied to bci classification.
+\newblock In {\em International conference on latent variable analysis and
+  signal separation}, pages 629--636. Springer, 2010.
+
 \bibitem{beniczky2020electroencephalography}
 S{\'a}ndor Beniczky and Donald~L Schomer.
 \newblock Electroencephalography: basic biophysical and technological aspects
   important for clinical applications.
 \newblock {\em Epileptic Disorders}, 22(6):697--715, 2020.
+
+\bibitem{congedo2013new}
+Marco Congedo, Alexandre Barachant, and Anton Andreev.
+\newblock A new generation of brain-computer interface based on riemannian
+  geometry.
+\newblock {\em arXiv preprint arXiv:1310.8115}, 2013.
 
 \bibitem{craik2019deep}
 Alexander Craik, Yongtian He, and Jose~L Contreras-Vidal.

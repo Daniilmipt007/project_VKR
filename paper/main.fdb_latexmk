@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1702648275 "main.aux" "main.bbl" "main" 1702654570 0
+["bibtex main"] 1702648275 "main.aux" "main.bbl" "main" 1702736421 0
   "./references.bib" 1702645006 3143 0caf79f3f434930b7ebd4c61cee651b0 ""
   "C:/Users/Р§С‘СЂРЅС‹Р№ РіРѕСЃРїРѕРґРёРЅ/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 0 -1 0 ""
-  "main.aux" 1702654568 3202 95ad6ede4a56f232956398bc5e411c39 "pdflatex"
+  "main.aux" 1702736419 3202 95ad6ede4a56f232956398bc5e411c39 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1702654554 "c:/Users/Чёрный господин/Documents/GitHub/project_VKR/paper/main.tex" "main.pdf" "main" 1702654570 0
+["pdflatex"] 1702736401 "c:/Users/Чёрный господин/Documents/GitHub/project_VKR/paper/main.tex" "main.pdf" "main" 1702736421 0
   "64_channel_sharbrough.pdf" 1702574393 32731 c9e0dddb83e6741931a6ace4c6f83275 ""
   "C:/Users/Чёрный господин/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702548474 281000 eb8b192011139e75c44b89c19602391a ""
   "C:/Users/Чёрный господин/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/labi1200.tfm" 1676978555 3592 9415307df98650ffeddaa22e262436dc ""
@@ -264,9 +264,9 @@
   "Dataset.pdf" 1702576334 835559 efc6cfb2757ad25cad8d9a8f9411e12f ""
   "arxiv.sty" 1702488296 7651 b0631c51720987987d111d479058240d ""
   "c:/Users/Чёрный господин/Documents/GitHub/project_VKR/paper/main.tex" 1702654553 15095 10c7e21e5b1e61ef830c932798ede30b ""
-  "main.aux" 1702654568 3202 95ad6ede4a56f232956398bc5e411c39 "pdflatex"
+  "main.aux" 1702736419 3202 95ad6ede4a56f232956398bc5e411c39 "pdflatex"
   "main.bbl" 1702648276 1645 099f47d6a7bb5b0a209cfd8882d2e4ba "bibtex main"
-  "main.out" 1702654568 1446 608816ec80fe98313cfdc0de55cb10d0 "pdflatex"
+  "main.out" 1702736419 1446 608816ec80fe98313cfdc0de55cb10d0 "pdflatex"
   "main.tex" 1702654553 15095 10c7e21e5b1e61ef830c932798ede30b ""
   "preamble.tex" 1702635825 3989 9e52e3b594513afb7bc7910b3a2972ae ""
   (generated)

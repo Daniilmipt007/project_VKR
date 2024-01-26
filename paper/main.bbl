@@ -24,16 +24,31 @@ Alexander Craik, Yongtian He, and Jose~L Contreras-Vidal.
   review.
 \newblock {\em Journal of neural engineering}, 16(3):031001, 2019.
 
-\bibitem{misc_eeg_eye_state_264}
-Oliver Roesler.
-\newblock {EEG Eye State}.
-\newblock UCI Machine Learning Repository, 2013.
-\newblock {DOI}: https://doi.org/10.24432/C57G7J.
+\bibitem{gajic2014classification}
+Dragoljub Gajic, Zeljko Djurovic, Stefano Di~Gennaro, and Fredrik Gustafsson.
+\newblock Classification of eeg signals for detection of epileptic seizures
+  based on wavelets and statistical pattern recognition.
+\newblock {\em Biomedical Engineering: Applications, Basis and Communications},
+  26(02):1450021, 2014.
+
+\bibitem{schalk2004bci2000}
+Gerwin Schalk, Dennis~J McFarland, Thilo Hinterberger, Niels Birbaumer, and
+  Jonathan~R Wolpaw.
+\newblock Bci2000: a general-purpose brain-computer interface (bci) system.
+\newblock {\em IEEE Transactions on biomedical engineering}, 51(6):1034--1043,
+  2004.
 
 \bibitem{siuly2016eeg}
 Siuly Siuly, Yan Li, and Yanchun Zhang.
 \newblock Eeg signal analysis and classification.
 \newblock {\em IEEE Trans Neural Syst Rehabilit Eng}, 11:141--144, 2016.
+
+\bibitem{smith2005eeg}
+Shelagh~JM Smith.
+\newblock Eeg in the diagnosis, classification, and management of patients with
+  epilepsy.
+\newblock {\em Journal of Neurology, Neurosurgery \& Psychiatry}, 76(suppl
+  2):ii2--ii7, 2005.
 
 \bibitem{teplan2002fundamentals}
 Michal Teplan et~al.

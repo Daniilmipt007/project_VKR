@@ -1367,6 +1367,7 @@ INPUT C:\Users\Чёрный господин\AppData\Local\MiKTeX\fonts\tfm\lh\l
 INPUT C:\Users\Чёрный господин\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx1440.tfm
 INPUT C:\Users\Чёрный господин\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\laxc1440.tfm
 INPUT C:\Users\Чёрный господин\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labi1200.tfm
+INPUT C:\Users\Чёрный господин\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\lati1200.tfm
 INPUT C:\Users\Чёрный господин\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss12.tfm
 INPUT C:\Users\Чёрный господин\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
@@ -1401,7 +1402,6 @@ INPUT .\main.bbl
 INPUT main.bbl
 INPUT .\main.bbl
 INPUT main.bbl
-INPUT C:\Users\Чёрный господин\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\lati1200.tfm
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out

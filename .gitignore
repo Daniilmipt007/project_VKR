@@ -123,3 +123,5 @@ logs/
 
 /code/eeg-motor-movementimagery-dataset/*
 /code/dataset_eeg_eye_state/*
+/code/dataset_left-right_hand_MI/*
+/code/dataset_hand_MI_bin/*

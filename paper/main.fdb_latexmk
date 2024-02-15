@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1706440180 "main.aux" "main.bbl" "main" 1706440198 0
-  "./references.bib" 1706440099 3635 22e9388644fb713dfdf3c4ac7c78ca7e ""
+["bibtex main"] 1707822024 "main.aux" "main.bbl" "main" 1707822040 0
+  "./references.bib" 1707821989 6395 2582f511ce0077e62eafb0d3f9f23b24 ""
   "C:/Users/Р§С‘СЂРЅС‹Р№ РіРѕСЃРїРѕРґРёРЅ/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 0 -1 0 ""
-  "main.aux" 1706440196 3963 d33bd4d945556d085fe688e22726ea5d "pdflatex"
+  "main.aux" 1707822039 4408 12bab5f206c3fd4f8599812d2d123ec3 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1706440180 "c:/Users/Чёрный господин/Documents/GitHub/project_VKR/paper/main.tex" "main.pdf" "main" 1706440198 0
+["pdflatex"] 1707822025 "c:/Users/Чёрный господин/Documents/GitHub/project_VKR/paper/main.tex" "main.pdf" "main" 1707822040 0
   "64_channel_sharbrough.pdf" 1702574393 32731 c9e0dddb83e6741931a6ace4c6f83275 ""
   "C:/Users/Чёрный господин/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702548474 281000 eb8b192011139e75c44b89c19602391a ""
   "C:/Users/Чёрный господин/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/labi1200.tfm" 1676978555 3592 9415307df98650ffeddaa22e262436dc ""
@@ -263,11 +263,11 @@
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "Dataset.pdf" 1702576334 835559 efc6cfb2757ad25cad8d9a8f9411e12f ""
   "arxiv.sty" 1702488296 7651 b0631c51720987987d111d479058240d ""
-  "c:/Users/Чёрный господин/Documents/GitHub/project_VKR/paper/main.tex" 1706440161 19314 b715d9b3bb6d82cb59a492fe54ccee23 ""
-  "main.aux" 1706440196 3963 d33bd4d945556d085fe688e22726ea5d "pdflatex"
-  "main.bbl" 1706440180 2638 7f7cbbde04a1fcc2510de945807b16f9 "bibtex main"
-  "main.out" 1706440196 1833 7e98eb450fb4adfc8adf0946d75f1be3 "pdflatex"
-  "main.tex" 1706440161 19314 b715d9b3bb6d82cb59a492fe54ccee23 ""
+  "c:/Users/Чёрный господин/Documents/GitHub/project_VKR/paper/main.tex" 1707821986 23498 16c6cccefceee84dd9702127259c7bb4 ""
+  "main.aux" 1707822039 4408 12bab5f206c3fd4f8599812d2d123ec3 "pdflatex"
+  "main.bbl" 1707822025 4750 669c275e82997bc12a531f40154b8041 "bibtex main"
+  "main.out" 1707822039 1833 7e98eb450fb4adfc8adf0946d75f1be3 "pdflatex"
+  "main.tex" 1707821986 23498 16c6cccefceee84dd9702127259c7bb4 ""
   "preamble.tex" 1705571034 3912 5a411869d8877b04fffd14c3c3ca8ab2 ""
   (generated)
   "main.aux"

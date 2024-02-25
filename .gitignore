@@ -121,7 +121,7 @@ logs/
 *.csv
 !.dvc
 
-/code/eeg-motor-movementimagery-dataset/*
-/code/dataset_eeg_eye_state/*
-/code/dataset_left-right_hand_MI/*
-/code/dataset_hand_MI_bin/*
+/code_eeg/eeg-motor-movementimagery-dataset/*
+/code_eeg/dataset_eeg_eye_state/*
+/code_eeg/dataset_left-right_hand_MI/*
+/code_eeg/dataset_hand_MI_bin/*

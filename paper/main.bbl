@@ -1,5 +1,11 @@
 \begin{thebibliography}{10}
 
+\bibitem{Bandettini1992}
+Peter~A. Bandettini, Eric~C. Wong, R.~Scott Hinks, Ronald~S. Tikofsky, and
+  James~S. Hyde.
+\newblock Time course epi of human brain function during task activation.
+\newblock {\em Magnetic Resonance in Medicine}, 25(2):390–397, June 1992.
+
 \bibitem{barachant2018pyriemann}
 Alexandre Barachant.
 \newblock pyriemann documentation.
@@ -45,6 +51,12 @@ Dragoljub Gajic, Zeljko Djurovic, Stefano Di~Gennaro, and Fredrik Gustafsson.
 \newblock {\em Biomedical Engineering: Applications, Basis and Communications},
   26(02):1450021, 2014.
 
+\bibitem{Glover2011}
+Gary~H. Glover.
+\newblock Overview of functional magnetic resonance imaging.
+\newblock {\em Neurosurgery Clinics of North America}, 22(2):133--139, April
+  2011.
+
 \bibitem{liu2012automatic}
 Yinxia Liu, Weidong Zhou, Qi~Yuan, and Shuangshuang Chen.
 \newblock Automatic seizure detection using wavelet transform and svm in
@@ -52,12 +64,23 @@ Yinxia Liu, Weidong Zhou, Qi~Yuan, and Shuangshuang Chen.
 \newblock {\em IEEE transactions on neural systems and rehabilitation
   engineering}, 20(6):749--755, 2012.
 
+\bibitem{Logothetis2003}
+Nikos~K. Logothetis.
+\newblock The underpinnings of the {BOLD} functional magnetic resonance imaging
+  signal.
+\newblock {\em The Journal of Neuroscience}, 23(10):3963--3971, May 2003.
+
 \bibitem{moakher2005differential}
 Maher Moakher.
 \newblock A differential geometric approach to the geometric mean of symmetric
   positive-definite matrices.
 \newblock {\em SIAM journal on matrix analysis and applications},
   26(3):735--747, 2005.
+
+\bibitem{poldrack2007region}
+Russell~A Poldrack.
+\newblock Region of interest analysis for fmri.
+\newblock {\em Social cognitive and affective neuroscience}, 2(1):67--70, 2007.
 
 \bibitem{schalk2004bci2000}
 Gerwin Schalk, Dennis~J McFarland, Thilo Hinterberger, Niels Birbaumer, and

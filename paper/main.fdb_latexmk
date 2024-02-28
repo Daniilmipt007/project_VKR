@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1707822024 "main.aux" "main.bbl" "main" 1707822040 0
-  "./references.bib" 1707821989 6395 2582f511ce0077e62eafb0d3f9f23b24 ""
+["bibtex main"] 1709118287 "main.aux" "main.bbl" "main" 1709121511 0
+  "./references.bib" 1709048949 7970 e1c1654d30ad8a882d24cd1fdeaaa74d ""
   "C:/Users/Р§С‘СЂРЅС‹Р№ РіРѕСЃРїРѕРґРёРЅ/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 0 -1 0 ""
-  "main.aux" 1707822039 4408 12bab5f206c3fd4f8599812d2d123ec3 "pdflatex"
+  "main.aux" 1709121507 5340 1fe090ee2226f652413a4e2144b978af "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1707822025 "c:/Users/Чёрный господин/Documents/GitHub/project_VKR/paper/main.tex" "main.pdf" "main" 1707822040 0
+["pdflatex"] 1709121477 "c:/Users/Чёрный господин/Documents/GitHub/project_VKR/paper/main.tex" "main.pdf" "main" 1709121511 0
   "64_channel_sharbrough.pdf" 1702574393 32731 c9e0dddb83e6741931a6ace4c6f83275 ""
   "C:/Users/Чёрный господин/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702548474 281000 eb8b192011139e75c44b89c19602391a ""
   "C:/Users/Чёрный господин/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/labi1200.tfm" 1676978555 3592 9415307df98650ffeddaa22e262436dc ""
@@ -261,13 +261,12 @@
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/tex/latex/was/icomma.sty" 1665850770 1018 df058db1896806f044e2233bb506d425 ""
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/Чёрный господин/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "Dataset.pdf" 1702576334 835559 efc6cfb2757ad25cad8d9a8f9411e12f ""
   "arxiv.sty" 1702488296 7651 b0631c51720987987d111d479058240d ""
-  "c:/Users/Чёрный господин/Documents/GitHub/project_VKR/paper/main.tex" 1707821986 23498 16c6cccefceee84dd9702127259c7bb4 ""
-  "main.aux" 1707822039 4408 12bab5f206c3fd4f8599812d2d123ec3 "pdflatex"
-  "main.bbl" 1707822025 4750 669c275e82997bc12a531f40154b8041 "bibtex main"
-  "main.out" 1707822039 1833 7e98eb450fb4adfc8adf0946d75f1be3 "pdflatex"
-  "main.tex" 1707821986 23498 16c6cccefceee84dd9702127259c7bb4 ""
+  "c:/Users/Чёрный господин/Documents/GitHub/project_VKR/paper/main.tex" 1709121475 32296 dff8f0f8e314923a6284a8484b7e5983 ""
+  "main.aux" 1709121507 5340 1fe090ee2226f652413a4e2144b978af "pdflatex"
+  "main.bbl" 1709118288 5614 4f230d0ee31b4d16b21cb4efbdd02be6 "bibtex main"
+  "main.out" 1709121507 3796 32bfa9f4fda98f9ca445588f7a1a8af9 "pdflatex"
+  "main.tex" 1709121475 32296 dff8f0f8e314923a6284a8484b7e5983 ""
   "preamble.tex" 1705571034 3912 5a411869d8877b04fffd14c3c3ca8ab2 ""
   (generated)
   "main.aux"

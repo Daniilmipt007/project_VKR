@@ -7,45 +7,45 @@ Reallocating 'name_of_file' (item size: 1) to 15 items.
 Database file #1: references.bib
 Warning--entry type for "EEG_MI" isn't style-file defined
 --line 21 of file references.bib
-You've used 17 entries,
+You've used 21 entries,
             2118 wiz_defined-function locations,
-            617 strings with 7805 characters,
-and the built_in function-call counts, 6643 in all, are:
-= -- 652
-> -- 373
+            649 strings with 8526 characters,
+and the built_in function-call counts, 7973 in all, are:
+= -- 787
+> -- 422
 < -- 3
-+ -- 150
-- -- 130
-* -- 538
-:= -- 1120
-add.period$ -- 52
-call.type$ -- 17
-change.case$ -- 116
++ -- 171
+- -- 146
+* -- 650
+:= -- 1341
+add.period$ -- 64
+call.type$ -- 21
+change.case$ -- 136
 chr.to.int$ -- 0
-cite$ -- 17
-duplicate$ -- 204
-empty$ -- 466
-format.name$ -- 130
-if$ -- 1342
+cite$ -- 21
+duplicate$ -- 248
+empty$ -- 576
+format.name$ -- 146
+if$ -- 1610
 int.to.chr$ -- 0
-int.to.str$ -- 17
-missing$ -- 15
-newline$ -- 87
-num.names$ -- 34
-pop$ -- 98
+int.to.str$ -- 21
+missing$ -- 19
+newline$ -- 107
+num.names$ -- 42
+pop$ -- 110
 preamble$ -- 1
-purify$ -- 98
+purify$ -- 114
 quote$ -- 0
-skip$ -- 143
+skip$ -- 171
 stack$ -- 0
-substring$ -- 460
-swap$ -- 37
+substring$ -- 583
+swap$ -- 41
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 68
+type$ -- 84
 warning$ -- 0
-while$ -- 64
-width$ -- 19
-write$ -- 189
+while$ -- 79
+width$ -- 23
+write$ -- 233
 (There was 1 warning)

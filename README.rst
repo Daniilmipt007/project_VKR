@@ -32,5 +32,5 @@
 Демонстрация работы
 ===================
 
-Код со всеми проведенными вычислительными экспериментами `здесь <https://github.com/intsystems/Dorin-BS-Thesis/blob/master/code/main.ipynb>`_.
+Код со всеми проведенными вычислительными экспериментами `здесь <https://github.com/intsystems/Dorin-BS-Thesis/blob/master/code_fmri/fmri_analysis.ipynb>`_.
 

@@ -1,0 +1,136 @@
+\begin{thebibliography}{10}
+
+\bibitem{Bandettini1992}
+Peter~A. Bandettini, Eric~C. Wong, R.~Scott Hinks, Ronald~S. Tikofsky, and
+  James~S. Hyde.
+\newblock Time course epi of human brain function during task activation.
+\newblock {\em Magnetic Resonance in Medicine}, 25(2):390–397, June 1992.
+
+\bibitem{barachant2018pyriemann}
+Alexandre Barachant.
+\newblock pyriemann documentation.
+\newblock Technical report, Tech. Rep. 0.2. 6, 2018.[Online]. Available:
+  https://readthedocs. org~…, 2018.
+
+\bibitem{barachant2010riemannian}
+Alexandre Barachant, St{\'e}phane Bonnet, Marco Congedo, and Christian Jutten.
+\newblock Riemannian geometry applied to bci classification.
+\newblock In {\em International conference on latent variable analysis and
+  signal separation}, pages 629--636. Springer, 2010.
+
+\bibitem{barachant2011multiclass}
+Alexandre Barachant, St{\'e}phane Bonnet, Marco Congedo, and Christian Jutten.
+\newblock Multiclass brain--computer interface classification by riemannian
+  geometry.
+\newblock {\em IEEE Transactions on Biomedical Engineering}, 59(4):920--928,
+  2011.
+
+\bibitem{beniczky2020electroencephalography}
+S{\'a}ndor Beniczky and Donald~L Schomer.
+\newblock Electroencephalography: basic biophysical and technological aspects
+  important for clinical applications.
+\newblock {\em Epileptic Disorders}, 22(6):697--715, 2020.
+
+\bibitem{cruz2021self}
+Aniana Cruz, Gabriel Pires, Ana Lopes, Carlos Carona, and Urbano~J Nunes.
+\newblock A self-paced bci with a collaborative controller for highly reliable
+  wheelchair driving: Experimental tests with physically disabled individuals.
+\newblock {\em IEEE Transactions on Human-Machine Systems}, 51(2):109--119,
+  2021.
+
+\bibitem{fu2019improvement}
+Rongrong Fu, Yongsheng Tian, Tiantian Bao, Zong Meng, and Peiming Shi.
+\newblock Improvement motor imagery eeg classification based on regularized
+  linear discriminant analysis.
+\newblock {\em Journal of medical systems}, 43:1--13, 2019.
+
+\bibitem{gajic2014classification}
+Dragoljub Gajic, Zeljko Djurovic, Stefano Di~Gennaro, and Fredrik Gustafsson.
+\newblock Classification of eeg signals for detection of epileptic seizures
+  based on wavelets and statistical pattern recognition.
+\newblock {\em Biomedical Engineering: Applications, Basis and Communications},
+  26(02):1450021, 2014.
+
+\bibitem{Glover2011}
+Gary~H. Glover.
+\newblock Overview of functional magnetic resonance imaging.
+\newblock {\em Neurosurgery Clinics of North America}, 22(2):133--139, April
+  2011.
+
+\bibitem{liu2012automatic}
+Yinxia Liu, Weidong Zhou, Qi~Yuan, and Shuangshuang Chen.
+\newblock Automatic seizure detection using wavelet transform and svm in
+  long-term intracranial eeg.
+\newblock {\em IEEE transactions on neural systems and rehabilitation
+  engineering}, 20(6):749--755, 2012.
+
+\bibitem{Logothetis2003}
+Nikos~K. Logothetis.
+\newblock The underpinnings of the {BOLD} functional magnetic resonance imaging
+  signal.
+\newblock {\em The Journal of Neuroscience}, 23(10):3963--3971, May 2003.
+
+\bibitem{moakher2005differential}
+Maher Moakher.
+\newblock A differential geometric approach to the geometric mean of symmetric
+  positive-definite matrices.
+\newblock {\em SIAM journal on matrix analysis and applications},
+  26(3):735--747, 2005.
+
+\bibitem{poldrack2007region}
+Russell~A Poldrack.
+\newblock Region of interest analysis for fmri.
+\newblock {\em Social cognitive and affective neuroscience}, 2(1):67--70, 2007.
+
+\bibitem{schalk2004bci2000}
+Gerwin Schalk, Dennis~J McFarland, Thilo Hinterberger, Niels Birbaumer, and
+  Jonathan~R Wolpaw.
+\newblock Bci2000: a general-purpose brain-computer interface (bci) system.
+\newblock {\em IEEE Transactions on biomedical engineering}, 51(6):1034--1043,
+  2004.
+
+\bibitem{EEG_MI}
+Gerwin Schalk, Dennis~J McFarland, Thilo Hinterberger, Niels Birbaumer, and
+  Jonathan~R Wolpaw.
+\newblock "eeg motor movement/imagery dataset", 2022.
+
+\bibitem{schwarz2020decoding}
+Andreas Schwarz, Maria~Katharina H{\"o}ller, Joana Pereira, Patrick Ofner, and
+  Gernot~R M{\"u}ller-Putz.
+\newblock Decoding hand movements from human eeg to control a robotic arm in a
+  simulation environment.
+\newblock {\em Journal of neural engineering}, 17(3):036010, 2020.
+
+\bibitem{seeck2017standardized}
+Margitta Seeck, Laurent Koessler, Thomas Bast, Frans Leijten, Christoph Michel,
+  Christoph Baumgartner, Bin He, and S{\'a}ndor Beniczky.
+\newblock The standardized eeg electrode array of the ifcn.
+\newblock {\em Clinical neurophysiology}, 128(10):2070--2077, 2017.
+
+\bibitem{siuly2016eeg}
+Siuly Siuly, Yan Li, and Yanchun Zhang.
+\newblock Eeg signal analysis and classification.
+\newblock {\em IEEE Trans Neural Syst Rehabilit Eng}, 11:141--144, 2016.
+
+\bibitem{smith2005eeg}
+Shelagh~JM Smith.
+\newblock Eeg in the diagnosis, classification, and management of patients with
+  epilepsy.
+\newblock {\em Journal of Neurology, Neurosurgery \& Psychiatry}, 76(suppl
+  2):ii2--ii7, 2005.
+
+\bibitem{song2020assistive}
+Yonghao Song, Weifeng Wu, Chengqi Lin, Gengliang Lin, Guofeng Li, and Longhan
+  Xie.
+\newblock Assistive mobile robot with shared control of brain-machine interface
+  and computer vision.
+\newblock In {\em 2020 IEEE 4th Information Technology, Networking, Electronic
+  and Automation Control Conference (ITNEC)}, volume~1, pages 405--409. IEEE,
+  2020.
+
+\bibitem{teplan2002fundamentals}
+Michal Teplan et~al.
+\newblock Fundamentals of eeg measurement.
+\newblock {\em Measurement science review}, 2(2):1--11, 2002.
+
+\end{thebibliography}

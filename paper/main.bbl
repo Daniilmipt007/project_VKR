@@ -1,0 +1,342 @@
+\begin{thebibliography}{40}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Puras and Grigorieva(2014)]{puras2014neurovisualization}
+Ju~V Puras and EV~Grigorieva.
+\newblock The neurovisualization methods in diagnostics of head injury. part 1.
+  computer tomography and magnetic resonance imaging.
+\newblock \emph{Russian journal of neurosurgery}, pages 7--16, 2014.
+
+\bibitem[Glover(2011)]{Glover2011}
+Gary~H. Glover.
+\newblock Overview of functional magnetic resonance imaging.
+\newblock \emph{Neurosurgery Clinics of North America}, 22\penalty0
+  (2):\penalty0 133--139, April 2011.
+\newblock \doi{10.1016/j.nec.2010.11.001}.
+\newblock URL \url{https://doi.org/10.1016/j.nec.2010.11.001}.
+
+\bibitem[Bandettini et~al.(1992)Bandettini, Wong, Hinks, Tikofsky, and
+  Hyde]{Bandettini1992}
+Peter~A. Bandettini, Eric~C. Wong, R.~Scott Hinks, Ronald~S. Tikofsky, and
+  James~S. Hyde.
+\newblock Time course epi of human brain function during task activation.
+\newblock \emph{Magnetic Resonance in Medicine}, 25\penalty0 (2):\penalty0
+  390–397, June 1992.
+\newblock ISSN 1522-2594.
+\newblock \doi{10.1002/mrm.1910250220}.
+\newblock URL \url{http://dx.doi.org/10.1002/mrm.1910250220}.
+
+\bibitem[Ogawa et~al.(1990)Ogawa, Lee, Kay, and Tank]{Ogawa1990}
+S~Ogawa, T~M Lee, A~R Kay, and D~W Tank.
+\newblock Brain magnetic resonance imaging with contrast dependent on blood
+  oxygenation.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 87\penalty0
+  (24):\penalty0 9868–9872, December 1990.
+\newblock ISSN 1091-6490.
+\newblock \doi{10.1073/pnas.87.24.9868}.
+\newblock URL \url{http://dx.doi.org/10.1073/pnas.87.24.9868}.
+
+\bibitem[{Le Bihan} and Karni(1995)]{LEBIHAN1995231}
+Denis {Le Bihan} and Avi Karni.
+\newblock Applications of magnetic resonance imaging to the study of human
+  brain function.
+\newblock \emph{Current Opinion in Neurobiology}, 5\penalty0 (2):\penalty0
+  231--237, 1995.
+\newblock ISSN 0959-4388.
+\newblock \doi{https://doi.org/10.1016/0959-4388(95)80031-X}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/095943889580031X}.
+
+\bibitem[Logothetis(2003{\natexlab{a}})]{Logothetis2003}
+Nikos~K. Logothetis.
+\newblock The underpinnings of the {BOLD} functional magnetic resonance imaging
+  signal.
+\newblock \emph{The Journal of Neuroscience}, 23\penalty0 (10):\penalty0
+  3963--3971, May 2003{\natexlab{a}}.
+\newblock \doi{10.1523/jneurosci.23-10-03963.2003}.
+\newblock URL \url{https://doi.org/10.1523/jneurosci.23-10-03963.2003}.
+
+\bibitem[Connelly et~al.(1993)Connelly, Jackson, Frackowiak, Belliveau,
+  Vargha-Khadem, and Gadian]{Connelly1993}
+A~Connelly, G~D Jackson, R~S Frackowiak, J~W Belliveau, F~Vargha-Khadem, and
+  D~G Gadian.
+\newblock Functional mapping of activated human primary cortex with a clinical
+  mr imaging system.
+\newblock \emph{Radiology}, 188\penalty0 (1):\penalty0 125–130, July 1993.
+\newblock ISSN 1527-1315.
+\newblock \doi{10.1148/radiology.188.1.8511285}.
+\newblock URL \url{http://dx.doi.org/10.1148/radiology.188.1.8511285}.
+
+\bibitem[Kwong et~al.(1992)Kwong, Belliveau, Chesler, Goldberg, Weisskoff,
+  Poncelet, Kennedy, Hoppel, Cohen, and Turner]{Kwong1992}
+K~K Kwong, J~W Belliveau, D~A Chesler, I~E Goldberg, R~M Weisskoff, B~P
+  Poncelet, D~N Kennedy, B~E Hoppel, M~S Cohen, and R~Turner.
+\newblock Dynamic magnetic resonance imaging of human brain activity during
+  primary sensory stimulation.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 89\penalty0
+  (12):\penalty0 5675–5679, June 1992.
+\newblock ISSN 1091-6490.
+\newblock \doi{10.1073/pnas.89.12.5675}.
+\newblock URL \url{http://dx.doi.org/10.1073/pnas.89.12.5675}.
+
+\bibitem[Ogawa et~al.(1992)Ogawa, Tank, Menon, Ellermann, Kim, Merkle, and
+  Ugurbil]{Ogawa1992}
+S~Ogawa, D~W Tank, R~Menon, J~M Ellermann, S~G Kim, H~Merkle, and K~Ugurbil.
+\newblock Intrinsic signal changes accompanying sensory stimulation: functional
+  brain mapping with magnetic resonance imaging.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 89\penalty0
+  (13):\penalty0 5951–5955, July 1992.
+\newblock ISSN 1091-6490.
+\newblock \doi{10.1073/pnas.89.13.5951}.
+\newblock URL \url{http://dx.doi.org/10.1073/pnas.89.13.5951}.
+
+\bibitem[Baudendistel et~al.(1995)Baudendistel, Schad, Friedlinger, Wenz,
+  Schr{\"o}der, and Lorenz]{BAUDENDISTEL1995701}
+Klaus Baudendistel, Lothar~R. Schad, Michael Friedlinger, Frederik Wenz,
+  Johannes Schr{\"o}der, and Walter~J. Lorenz.
+\newblock Postprocessing of functional mri data of motor cortex stimulation
+  measured with a standard 1.5 t imager.
+\newblock \emph{Magnetic Resonance Imaging}, 13\penalty0 (5):\penalty0
+  701--707, 1995.
+\newblock ISSN 0730-725X.
+\newblock \doi{https://doi.org/10.1016/0730-725X(95)00016-A}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/0730725X9500016A}.
+
+\bibitem[Cox(1996)]{COX1996162}
+Robert~W. Cox.
+\newblock Afni: Software for analysis and visualization of functional magnetic
+  resonance neuroimages.
+\newblock \emph{Computers and Biomedical Research}, 29\penalty0 (3):\penalty0
+  162--173, 1996.
+\newblock ISSN 0010-4809.
+\newblock \doi{https://doi.org/10.1006/cbmr.1996.0014}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0010480996900142}.
+
+\bibitem[Menon and Kim(1999)]{menon1999spatial}
+Ravi~S Menon and Seong-Gi Kim.
+\newblock Spatial and temporal limits in cognitive neuroimaging with fmri.
+\newblock \emph{Trends in cognitive sciences}, 3\penalty0 (6):\penalty0
+  207--216, 1999.
+
+\bibitem[Logothetis(2008)]{logothetis2008we}
+Nikos~K Logothetis.
+\newblock What we can do and what we cannot do with fmri.
+\newblock \emph{Nature}, 453\penalty0 (7197):\penalty0 869--878, 2008.
+
+\bibitem[Sharaev et~al.(2018)Sharaev, Andreev, Artemov, Bernstein, Burnaev,
+  Kondratyeva, Sushchinskaya, and Akzhigitov]{1804.10167}
+Maxim Sharaev, Alexander Andreev, Alexey Artemov, Alexander Bernstein, Evgeny
+  Burnaev, Ekaterina Kondratyeva, Svetlana Sushchinskaya, and Renat Akzhigitov.
+\newblock fmri: preprocessing, classification and pattern recognition, 2018.
+
+\bibitem[Roux et~al.(1998)Roux, Ranjeva, Boulanouar, Manelfe, Sabatier,
+  Tremoulet, and Berry]{Roux1998}
+F.E. Roux, J.P. Ranjeva, K.~Boulanouar, C.~Manelfe, J.~Sabatier, M.~Tremoulet,
+  and I.~Berry.
+\newblock {Motor Functional MRI for Presurgical Evaluation of Cerebral Tumors}.
+\newblock \emph{Stereotactic and Functional Neurosurgery}, 68\penalty0
+  (1-4):\penalty0 106--111, 07 1998.
+\newblock ISSN 1011-6125.
+\newblock \doi{10.1159/000099910}.
+\newblock URL \url{https://doi.org/10.1159/000099910}.
+
+\bibitem[Papke et~al.(1999)Papke, Hellmann, Renger, Morgenroth, Knecht,
+  Schuierer, and Reimer]{Papke1999}
+K.~Papke, T.~Hellmann, B.~Renger, C.~Morgenroth, S.~Knecht, G.~Schuierer, and
+  P.~Reimer.
+\newblock Clinical applications of functional mri at 1.0 t: motor and language
+  studies in healthy subjects and patients.
+\newblock \emph{European Radiology}, 9\penalty0 (2):\penalty0 211--220, 1999.
+\newblock \doi{10.1007/s003300050658}.
+\newblock URL \url{https://doi.org/10.1007/s003300050658}.
+
+\bibitem[Engel et~al.(1994)Engel, Rumelhart, Wandell, Lee, Glover,
+  Chichilnisky, and Shadlen]{Engel1994}
+Stephen~A. Engel, David~E. Rumelhart, Brian~A. Wandell, Adrian~T. Lee, Gary~H.
+  Glover, Eduardo-Jose Chichilnisky, and Michael~N. Shadlen.
+\newblock fmri of human visual cortex.
+\newblock \emph{Nature}, 369\penalty0 (6481):\penalty0 525--525, 1994.
+\newblock \doi{10.1038/369525a0}.
+\newblock URL \url{https://doi.org/10.1038/369525a0}.
+
+\bibitem[Schneider et~al.(1994)Schneider, Casey, and Noll]{Schneider1994}
+Walter Schneider, B.~J. Casey, and Douglas Noll.
+\newblock Functional mri mapping of stimulus rate effects across visual
+  processing stages.
+\newblock \emph{Human Brain Mapping}, 1\penalty0 (2):\penalty0 117–133,
+  January 1994.
+\newblock ISSN 1097-0193.
+\newblock \doi{10.1002/hbm.460010205}.
+\newblock URL \url{http://dx.doi.org/10.1002/hbm.460010205}.
+
+\bibitem[Binder et~al.(1994)Binder, Rao, Hammeke, Yetkin, Jesmanowicz,
+  Bandettini, Wong, Estkowski, Goldstein, Haughton, and Hyde]{Binder1994}
+J.~R. Binder, S.~M. Rao, T.~A. Hammeke, F.~Z. Yetkin, A.~Jesmanowicz, P.~A.
+  Bandettini, E.~C. Wong, L.~D. Estkowski, M.~D. Goldstein, V.~M. Haughton, and
+  J.~S. Hyde.
+\newblock Functional magnetic resonance imaging of human auditory cortex.
+\newblock \emph{Annals of Neurology}, 35\penalty0 (6):\penalty0 662–672, June
+  1994.
+\newblock ISSN 1531-8249.
+\newblock \doi{10.1002/ana.410350606}.
+\newblock URL \url{http://dx.doi.org/10.1002/ana.410350606}.
+
+\bibitem[Dymarkowski et~al.(1998)Dymarkowski, Sunaert, Van~Oostende, Van~Hecke,
+  Wilms, Demaerel, Nuttin, Plets, and Marchal]{Dymarkowski1998}
+S.~Dymarkowski, S.~Sunaert, S.~Van~Oostende, P.~Van~Hecke, G.~Wilms,
+  P.~Demaerel, B.~Nuttin, C.~Plets, and G.~Marchal.
+\newblock Functional mri of the brain: localisation of eloquent cortex in focal
+  brain lesion therapy.
+\newblock \emph{European Radiology}, 8\penalty0 (9):\penalty0 1573--1580, 1998.
+\newblock \doi{10.1007/s003300050589}.
+\newblock URL \url{https://doi.org/10.1007/s003300050589}.
+
+\bibitem[Decety et~al.(1997)Decety, Grezes, Costes, Perani, Jeannerod, Procyk,
+  Grassi, and Fazio]{decety1997brain}
+Jean Decety, Julie Grezes, Nicolas Costes, Daniela Perani, Marc Jeannerod,
+  Emmanuel Procyk, Franco Grassi, and Ferruccio Fazio.
+\newblock Brain activity during observation of actions. influence of action
+  content and subject's strategy.
+\newblock \emph{Brain: a journal of neurology}, 120\penalty0 (10):\penalty0
+  1763--1777, 1997.
+
+\bibitem[Tran et~al.(2015)Tran, Bourdev, Fergus, Torresani, and
+  Paluri]{tran2015learning}
+Du~Tran, Lubomir Bourdev, Rob Fergus, Lorenzo Torresani, and Manohar Paluri.
+\newblock Learning spatiotemporal features with 3d convolutional networks.
+\newblock In \emph{Proceedings of the IEEE international conference on computer
+  vision}, pages 4489--4497, 2015.
+
+\bibitem[He et~al.(2015)He, Zhang, Ren, and Sun]{he2015deep}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition, 2015.
+
+\bibitem[Siuly et~al.(2016)Siuly, Li, and Zhang]{siuly2016eeg}
+Siuly Siuly, Yan Li, and Yanchun Zhang.
+\newblock Eeg signal analysis and classification.
+\newblock \emph{IEEE Trans Neural Syst Rehabilit Eng}, 11:\penalty0 141--144,
+  2016.
+
+\bibitem[Yuan et~al.(2021)Yuan, Chen, Wang, Chu, and Tong]{yuan2021bci}
+Kai Yuan, Cheng Chen, Xin Wang, Winnie Chiu-wing Chu, and Raymond Kai-yu Tong.
+\newblock Bci training effects on chronic stroke correlate with functional
+  reorganization in motor-related regions: a concurrent eeg and fmri study.
+\newblock \emph{Brain sciences}, 11\penalty0 (1):\penalty0 56, 2021.
+
+\bibitem[Du et~al.(2022)Du, Cheng, Duan, and Ning]{du2022fmri}
+Bing Du, Xiaomu Cheng, Yiping Duan, and Huansheng Ning.
+\newblock fmri brain decoding and its applications in brain--computer
+  interface: A survey.
+\newblock \emph{Brain Sciences}, 12\penalty0 (2):\penalty0 228, 2022.
+
+\bibitem[Bul{\'a}rka and Gontean(2016)]{bularka2016brain}
+Szil{\'a}rd Bul{\'a}rka and Aurel Gontean.
+\newblock Brain-computer interface review.
+\newblock In \emph{2016 12th IEEE international symposium on electronics and
+  telecommunications (ISETC)}, pages 219--222. IEEE, 2016.
+
+\bibitem[Song et~al.(2020)Song, Wu, Lin, Lin, Li, and Xie]{song2020assistive}
+Yonghao Song, Weifeng Wu, Chengqi Lin, Gengliang Lin, Guofeng Li, and Longhan
+  Xie.
+\newblock Assistive mobile robot with shared control of brain-machine interface
+  and computer vision.
+\newblock In \emph{2020 IEEE 4th Information Technology, Networking, Electronic
+  and Automation Control Conference (ITNEC)}, volume~1, pages 405--409. IEEE,
+  2020.
+
+\bibitem[Cruz et~al.(2021)Cruz, Pires, Lopes, Carona, and Nunes]{cruz2021self}
+Aniana Cruz, Gabriel Pires, Ana Lopes, Carlos Carona, and Urbano~J Nunes.
+\newblock A self-paced bci with a collaborative controller for highly reliable
+  wheelchair driving: Experimental tests with physically disabled individuals.
+\newblock \emph{IEEE Transactions on Human-Machine Systems}, 51\penalty0
+  (2):\penalty0 109--119, 2021.
+
+\bibitem[Schwarz et~al.(2020)Schwarz, H{\"o}ller, Pereira, Ofner, and
+  M{\"u}ller-Putz]{schwarz2020decoding}
+Andreas Schwarz, Maria~Katharina H{\"o}ller, Joana Pereira, Patrick Ofner, and
+  Gernot~R M{\"u}ller-Putz.
+\newblock Decoding hand movements from human eeg to control a robotic arm in a
+  simulation environment.
+\newblock \emph{Journal of neural engineering}, 17\penalty0 (3):\penalty0
+  036010, 2020.
+
+\bibitem[Poldrack(2007)]{poldrack2007region}
+Russell~A Poldrack.
+\newblock Region of interest analysis for fmri.
+\newblock \emph{Social cognitive and affective neuroscience}, 2\penalty0
+  (1):\penalty0 67--70, 2007.
+
+\bibitem[Altenm{\"u}ller and Gruhn(2002)]{altenmuller2002brain}
+Eckart Altenm{\"u}ller and Wilfried Gruhn.
+\newblock Brain mechanisms.
+\newblock \emph{The science and psychology of music performance: Creative
+  strategies for teaching and learning}, pages 63--81, 2002.
+
+\bibitem[Anderson et~al.(2006)Anderson, Fite, Petrovich, and
+  Hirsch]{anderson2006}
+Daniel Anderson, Katherine Fite, Nicole Petrovich, and Joy Hirsch.
+\newblock Cortical activation while watching video montage: An fmri study.
+\newblock \emph{Media Psychology - MEDIA PSYCHOL}, 8:\penalty0 7--24, 02 2006.
+\newblock \doi{10.1207/S1532785XMEP0801_2}.
+
+\bibitem[Logothetis(2003{\natexlab{b}})]{logothetis2003underpinnings}
+Nikos~K Logothetis.
+\newblock The underpinnings of the bold functional magnetic resonance imaging
+  signal.
+\newblock \emph{Journal of Neuroscience}, 23\penalty0 (10):\penalty0
+  3963--3971, 2003{\natexlab{b}}.
+
+\bibitem[Kl{\"o}ppel et~al.(2012)Kl{\"o}ppel, Abdulkadir, Jack~Jr,
+  Koutsouleris, Mour{\~a}o-Miranda, and Vemuri]{kloppel2012diagnostic}
+Stefan Kl{\"o}ppel, Ahmed Abdulkadir, Clifford~R Jack~Jr, Nikolaos
+  Koutsouleris, Janaina Mour{\~a}o-Miranda, and Prashanthi Vemuri.
+\newblock Diagnostic neuroimaging across diseases.
+\newblock \emph{Neuroimage}, 61\penalty0 (2):\penalty0 457--463, 2012.
+
+\bibitem[Barachant et~al.(2010)Barachant, Bonnet, Congedo, and
+  Jutten]{barachant2010riemannian}
+Alexandre Barachant, St{\'e}phane Bonnet, Marco Congedo, and Christian Jutten.
+\newblock Riemannian geometry applied to bci classification.
+\newblock In \emph{International conference on latent variable analysis and
+  signal separation}, pages 629--636. Springer, 2010.
+
+\bibitem[Barachant et~al.(2011)Barachant, Bonnet, Congedo, and
+  Jutten]{barachant2011multiclass}
+Alexandre Barachant, St{\'e}phane Bonnet, Marco Congedo, and Christian Jutten.
+\newblock Multiclass brain--computer interface classification by riemannian
+  geometry.
+\newblock \emph{IEEE Transactions on Biomedical Engineering}, 59\penalty0
+  (4):\penalty0 920--928, 2011.
+
+\bibitem[Moakher(2005)]{moakher2005differential}
+Maher Moakher.
+\newblock A differential geometric approach to the geometric mean of symmetric
+  positive-definite matrices.
+\newblock \emph{SIAM journal on matrix analysis and applications}, 26\penalty0
+  (3):\penalty0 735--747, 2005.
+
+\bibitem[Berezutskaya et~al.(2022)Berezutskaya, Vansteensel, Aarnoutse,
+  Freudenburg, Piantoni, Branco, and Ramsey]{Berezutskaya2022}
+Julia Berezutskaya, Mariska~J. Vansteensel, Erik~J. Aarnoutse, Zachary~V.
+  Freudenburg, Giovanni Piantoni, Mariana~P. Branco, and Nick~F. Ramsey.
+\newblock Open multimodal {iEEG}-{fMRI} dataset from naturalistic stimulation
+  with a short audiovisual film.
+\newblock \emph{Scientific Data}, 9\penalty0 (1), March 2022.
+\newblock \doi{10.1038/s41597-022-01173-0}.
+\newblock URL \url{https://doi.org/10.1038/s41597-022-01173-0}.
+
+\bibitem[Haxby et~al.(2001)Haxby, Gobbini, Furey, Ishai, Schouten, and
+  Pietrini]{haxby2001distributed}
+James~V Haxby, M~Ida Gobbini, Maura~L Furey, Alumit Ishai, Jennifer~L Schouten,
+  and Pietro Pietrini.
+\newblock Distributed and overlapping representations of faces and objects in
+  ventral temporal cortex.
+\newblock \emph{Science}, 293\penalty0 (5539):\penalty0 2425--2430, 2001.
+
+\end{thebibliography}
